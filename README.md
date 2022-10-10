@@ -31,7 +31,6 @@ NOT, Exclusive OR, Shift Left, Shift Right
 5. การแบ่งโปรแกรมเป็นส่วนที่มีความอิสระต่อกันโดยใช้โมดูล เช่น เมธอด (Methods) หรือฟังก์ชัน (Functions)
 
 6. การเขียนโปรแกรมโดยสร้างโครงสร้างแบบซับซ้อน หรือผู้ใช้กำหนดเอง (Complex Data Type or User Defined Type)
-
 6.1. อาร์เรย์ (Array) หนึ่งมิติและหลายมิติ
 6.2. สตรัค (Struct)
 
