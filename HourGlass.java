@@ -1,5 +1,3 @@
-package CS300_18_09;
-
 import java.util.*;
 public class HourGlass{
     
