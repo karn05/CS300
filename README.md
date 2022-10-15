@@ -21,7 +21,7 @@
 NOT, Exclusive OR, Shift Left, Shift Right
 
 4. โครงสร้างควบคุมล าดับการประมวลผลโปรแกรม (program control structures)
-4.1. การประมวลผลแบบล าดับ (Sequence structures) : การก าหนดค่าให้ตัวแปร (assignment)
+4.1. การประมวลผลแบบลำดับ (Sequence structures) : การก าหนดค่าให้ตัวแปร (assignment)
  การรับข้อมูลจาก คีย์บอร์ด หรือแฟ้มข้อมูล, การแสดงผลข้อมูลไปที่จอภาพหรือแฟ้มข้อมูล
 4.2. การเลือกเส้นทางประมวลผลตามเงื่อนไข (Selection structures) : การใช้ If/then และ If/then/else
  ทั้งแบบเดี่ยว แบบซ้อน (nested if) และแบบเรียงต่อ (cascaded if), การใช้ Case หรือ Switch
